@@ -226,11 +226,3 @@ Check that the file includes `Program`, `Year`, and `Subject` values for every r
 ### `ONLINE` assignments
 
 `ONLINE` means that no available physical room and time slot could satisfy the current constraints. Add rooms, adjust the input data, or review the schedule for unusually long sessions.
-
-## Documentation
-
-- [Algorithm overview](./README_ALGORITHM_OVERVIEW.md)
-- [Technical system documentation](./SCHEDULING_SYSTEM_DOCUMENTATION.md)
-- [Algorithm pseudocode](./ALGORITHM_PSEUDOCODE.md)
-- [Scheduling fixes](./SCHEDULING_FIXES.md)
-- [UI enhancements](./UI_ENHANCEMENTS.md)
